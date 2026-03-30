@@ -1,6 +1,6 @@
 print("trabajo duro")
-def primoHouse():
-    for i in range 2:
-        print("hola mundo")
+def ballitch():
+    print("me pican los cocachos")
 
-primoHouse()
+ballitch()
+
